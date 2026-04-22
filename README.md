@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Average-Programmer</h1>
 <h3 align="center">A passionate self taught software engineer with skills in API, Robotics, Linux and basic ML.</h3>
-<table>
+<table width="100%">
   <tr>
-    <td valign="top">
+    <td width="55%" valign="top">
 
-<pre>
+<pre style="font-size:10px; line-height:10px; white-space:pre; overflow:hidden;">
 =============++++=++++++===========
 ==============:   :.   -+==========
 ----=====.               ==========
@@ -29,21 +29,18 @@
 </pre>
 
     </td>
-    <td valign="top">
+
+    <td width="45%" valign="top">
 
 - 🔭 I’m currently working on **Warren bot**  
-- 🌱 I’m currently learning **🐼 Pandas, ESP8266 💻**  
+- 🌱 I’m currently learning **🐼 Pandas, ESP8266 💻**
 
 ---
 
 ### 📊 Stats
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Average-Programmer123&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Average-Programmer123&label=Profile%20views&color=0e75b6&style=flat" />
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=average-programmer123" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=average-programmer123" />
 
     </td>
   </tr>
