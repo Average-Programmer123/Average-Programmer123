@@ -1,7 +1,7 @@
 <!--used to create the template for this readme https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 
 <h1 align="center">Hi 👋, I'm Average-Programmer</h1>
-<h3 align="center">A passionate self taught software engineer with skills in API, Robotics and basic ML.</h3>
+<h3 align="center">A passionate self taught software engineer with skills in API, Robotics, Linux and basic ML.</h3>
 <pre>
 *********************************#######**********************
 *******************************+++**###***********************
