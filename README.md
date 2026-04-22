@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Average-Programmer</h1>
 <h3 align="center">A passionate self taught software engineer with skills in API, Robotics and basic ML.</h3>
-<p align='left' max-width='464px'>*********************************#######**********************
+<pre>
+*********************************#######**********************
 *******************************+++**###***********************
 ************************#*+:---=+====:.:**********************
 *********************+-..:::::-=-=+=:....:********************
@@ -46,7 +47,8 @@
 --:---------:---::::::::::::...:::::..:.:-:::.......::::......
 ----------:-----::--::::::::.:.:.::...:-::........::::........
 --------::::--:::::::::::::..........-::.........::.:.........
---------:::::::::::::::::::........:::...........:::..........:</p>
+--------:::::::::::::::::::........:::...........:::..........
+</pre>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Average-Programmer123&label=Profile%20views&color=0e75b6&style=flat" alt="average-programmer123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=average-programmer123" alt="average-programmer123" /></a> </p>
