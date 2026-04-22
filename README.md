@@ -6,7 +6,7 @@
   <tr>
     <td width="55%" valign="top">
 
-<pre style="font-size:10px; line-height:10px; white-space:pre; overflow:hidden;">
+<pre style="font-size:9px; line-height:9px;">
 =============++++=++++++===========
 ==============:   :.   -+==========
 ----=====.               ==========
@@ -32,13 +32,14 @@
 
     <td width="45%" valign="top">
 
-- 🔭 I’m currently working on **Warren bot**  
-- 🌱 I’m currently learning **🐼 Pandas, ESP8266 💻**
+### 👋 About Me
+- 🔭 Working on **Warren bot**
+- 🌱 Learning **Pandas & ESP8266**
 
 ---
 
 ### 📊 Stats
-<img src="https://komarev.com/ghpvc/?username=Average-Programmer123&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Average-Programmer123" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=average-programmer123" />
 
