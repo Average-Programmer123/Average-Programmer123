@@ -5,7 +5,7 @@
 
 <div style="display:inline-block; vertical-align:top; width:55%;">
 
-<pre style="font-size:9px; line-height:9px; white-space:pre; margin:0;" align="center">
+<pre style="font-size:9px; line-height:9px; white-space:pre; margin-left:50px;">
 <pre>
 =============++++=++++++===========   STATUS: SYSTEM ONLINE
 ==============:   :.   -+==========   USER: Average-Programmer
