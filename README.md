@@ -2,7 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Average-Programmer</h1>
 <h3 align="center">A passionate self taught software engineer with skills in API, Robotics, Linux and basic ML.</h3>
-<pre align="center">
+<table>
+  <tr>
+    <td valign="top">
+
+<pre>
 =============++++=++++++===========
 ==============:   :.   -+==========
 ----=====.               ==========
@@ -23,14 +27,27 @@
 :::-:                           -++
 ::::                              =
 </pre>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Average-Programmer123&label=Profile%20views&color=0e75b6&style=flat" alt="average-programmer123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=average-programmer123" alt="average-programmer123" /></a> </p>
+    </td>
+    <td valign="top">
 
-- 🔭 I’m currently working on **Warren bot**
+- 🔭 I’m currently working on **Warren bot**  
+- 🌱 I’m currently learning **🐼 Pandas, ESP8266 💻**  
 
-- 🌱 I’m currently learning **🐼 Pandas, ESP8266💻**
+---
 
+### 📊 Stats
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Average-Programmer123&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=average-programmer123" />
+</p>
+
+    </td>
+  </tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/the_og.suyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_og.suyash" height="30" width="40" /></a>
