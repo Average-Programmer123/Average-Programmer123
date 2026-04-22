@@ -58,7 +58,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center" style="display:inline-block; vertical-align:top; width:55%;">Languages and Tools:</h3>
 <div align="center">
 
   <a href="https://www.linux.org/" target="_blank">
