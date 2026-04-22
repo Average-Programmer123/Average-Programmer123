@@ -69,7 +69,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
   </a>
 
-<h3 align="center">Top used languages</h3>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   </a>
@@ -95,7 +94,7 @@
   </a>
 
 </div>
-
+<h3 align="center">Top used languages</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=average-programmer123&show_icons=true&layout=compact" />
 </p>
