@@ -59,7 +59,7 @@
 ---
 
 <h3 align="center" style="display:inline-block; vertical-align:top; width:55%;">Languages and Tools:</h3>
-<div align="center">
+<div align="center" style="margin-left:10px">
 
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
