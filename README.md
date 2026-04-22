@@ -49,8 +49,8 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://instagram.com/the_og.suyash" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
@@ -58,7 +58,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <div align="center">
 
   <a href="https://www.linux.org/" target="_blank">
@@ -69,6 +69,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
   </a>
 
+<h3 align="center">Top used languages</h3>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   </a>
