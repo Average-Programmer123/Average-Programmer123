@@ -1,36 +1,31 @@
 <h1 align="center">Hi 👋, I'm Average-Programmer</h1>
 <h3 align="center">Self-taught Software Engineer | APIs • Robotics • Linux • ML</h3>
 
-<div align="center">
+<div>
 
 <div style="display:inline-block; vertical-align:top; width:55%;">
 
 <pre style="font-size:9px; line-height:9px; white-space:pre; margin:0;">
-=====================================
-        SYSTEM PROFILE: ACTIVE
-=====================================
-
-USER: Average-Programmer
-ROLE: Developer / Tinkerer
-
--------------------------------------
-STATUS:
-> Working on: Warren Bot
-> Learning  : Pandas 🐼, ESP8266 💻, Linux 🐧
-> Focus     : Robotics | Systems | ML
-
--------------------------------------
-SKILLS:
-Python | C++ | Docker | Arduino | Linux
-
--------------------------------------
-INTERESTS:
-- Embedded Systems
-- Automation
-- Open Source
-- AI / ML
-
-=====================================
+<pre>
+=============++++=++++++===========   STATUS: SYSTEM ONLINE
+==============:   :.   -+==========   USER: Average-Programmer
+----=====.               ==========   ROLE: Developer / Tinkerer
+-------=                 -=========   
+-------:  =%@@%#+=-:      =========  WORK: Warren Bot
+--------.+%%@%%#+=-:.     =========  LEARNING: Pandas 🐼
+---------#%%%#+:...::     -+=======   + ESP8266 💻
+---------.  =-  .  :::   . -=======   + Linux 🐧
+:--:-----=++#=-+**+=:...  :+++=====
+---------=#%%=--+=-:... :=+++======   SKILLS: Python | C++ | Docker
+:---------=*=   .:::....-++++======   
+:-----------   .:::...  -==========   INTERESTS:
+:-----------==.:--:.   .*#+========   - Robotics
+::----------=#+-.  --+++.  :+++====   - AI / ML
+:---------=*@@%*--          =++====
+:---------.  .=.             =+====
+::----:.                      :++++
+:::-:                           -++
+::::                              =
 </pre>
 
 </div>
