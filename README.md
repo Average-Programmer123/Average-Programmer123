@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Average-Programmer</h1>
 <h3 align="center">A passionate self taught software engineer with skills in API, Robotics, Linux and basic ML.</h3>
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
+<div align="center">
 
-<pre style="font-size:9px; line-height:9px;">
+<div style="display:inline-block; vertical-align:top; width:55%;">
+
+<pre style="font-size:9px; line-height:9px; white-space:pre; margin:0;">
 =============++++=++++++===========
 ==============:   :.   -+==========
 ----=====.               ==========
@@ -28,9 +28,9 @@
 ::::                              =
 </pre>
 
-    </td>
+</div>
 
-    <td width="45%" valign="top">
+<div style="display:inline-block; vertical-align:top; width:40%; text-align:left;">
 
 ### 👋 About Me
 - 🔭 Working on **Warren bot**
@@ -43,9 +43,9 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=average-programmer123" />
 
-    </td>
-  </tr>
-</table>
+</div>
+
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/the_og.suyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_og.suyash" height="30" width="40" /></a>
