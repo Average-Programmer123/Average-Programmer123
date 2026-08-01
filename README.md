@@ -73,6 +73,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   </a>
 
+  
+  <a href="https://scikit-learn.org/stable/#" target="_blank">
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-without-subtitle.svg" width="40"/>
+  </a>
+
+  
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   </a>
